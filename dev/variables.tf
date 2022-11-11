@@ -3,7 +3,7 @@
 # API token
 variable "do_token" {
   type = string
-  default = "dop_v1_197c336ab023534557ec910c54910cff76153a7f6ddac674d3eedb4ccd358178"
+  default = ""
 }
 
 # set default region to sfo3
